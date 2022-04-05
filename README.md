@@ -1,2 +1,2 @@
 # OutWebView
-PowerShell - Sending output to an interactive table in a browser
+PowerShell – sending output to an interactive table in a web-browser.
