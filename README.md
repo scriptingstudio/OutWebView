@@ -1,6 +1,6 @@
 # OutWebView
 
-PowerShell `Out-GridView` for a web-browser. Based on [Datatables](https://datatables.net/) framework.
+OutWebView is PowerShell `Out-GridView` for a web-browser. It is based on [Datatables](https://datatables.net/) framework.
 
 ## Usage
 
