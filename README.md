@@ -1,2 +1,10 @@
 # OutWebView
-PowerShell – sending output to an interactive table in a web-browser.
+
+PowerShell `Out-GridView` for a web-browser. Based on [Datatables](https://datatables.net/) framework.
+
+## Usage
+
+## ToDo and Experimental
+
+- Styling
+
